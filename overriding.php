@@ -5,7 +5,7 @@ class Produk
     public $judul,
         $penulis,
         $penerbit,
-        $harga,
+        $harga;
 
 
     // method akan otomatis dijalankan setiap melakukan intansiasi kelas
